@@ -9,5 +9,4 @@ This is a linear regression of performance metrics from Google's Pagespeed Insig
 4. :star: _deck.key_ - slidedeck
 5. _merge.ipynb_ - performs data merge prior to analysis
 6. _analyze.ipynb_ - analysis without log transform
-7. _analyze_old_no_intercepts.ipynb_ - (outdated)
 8. (everything else is data consumed or produced by the above notebooks)
